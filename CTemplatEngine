@@ -1,0 +1,8 @@
+void main()
+{
+
+char html[] = ""; // Html file want to display
+
+return html[] ? html[] : "<h1> Err </h1>";
+
+}
