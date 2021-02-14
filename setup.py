@@ -1,4 +1,4 @@
 try:
   from . import *
- except:
+except:
   print("Error")
