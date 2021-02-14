@@ -3,5 +3,5 @@
 
 void main()
 {
-printf("Content-Type:text/html"\n\n);
+printf("Content-Type:text/html\n\n");
 }
